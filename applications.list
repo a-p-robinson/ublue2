@@ -10,6 +10,7 @@ org.gnome.Firmware
 com.brave.Browser
 com.google.Chrome
 com.microsoft.Edge
+org.mozilla.firefox
 
 com.discordapp.Discord
 com.valvesoftware.Steam

@@ -8,7 +8,7 @@ set -u
 echo "This profile will remove the VSCode flatpak in favor of an overlayed package, in order to enable access to the host terminal. This is a temporary workaround until the flatpak can access the system/toolbox environment without ugly hacks."
 echo ""
 echo "Press any key to continue, or control-c to exit"
-read -n1 -s
+#read -n1 -s
 
 
 # if the flatpak is installed, remove it
