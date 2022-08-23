@@ -1,48 +1,45 @@
 # Default-y apps
 #
 org.gnome.Dejadup
-org.gnome.Rhythmbox3
-org.gnome.Shotwell
-org.gustavoperedo.FontDownloader
 org.libreoffice.LibreOffice
 org.mozilla.firefox
-org.mozilla.Thunderbird
-org.freedesktop.Platform.ffmpeg-full/x86_64/21.08
-org.freedesktop.Platform.GStreamer.gstreamer-vaapi
-io.github.celluloid_player.Celluloid
 com.github.tchx84.Flatseal
 com.mattjakeman.ExtensionManager
 org.gnome.Firmware
 
-# Browsers
-#com.brave.Browser
-#com.google.Chrome
-#com.microsoft.Edge
+com.brave.Browser
+com.google.Chrome
+com.microsoft.Edge
 
-# Gaming and Streaming Specific
-#com.discordapp.Discord
-#com.obsproject.Studio
-#com.obsproject.Studio.Plugin.Gstreamer
-#com.valvesoftware.Steam
-#org.freedesktop.Platform.VulkanLayer.MangoHud
+com.discordapp.Discord
+com.valvesoftware.Steam
+com.usebottles.bottles
+com.spotify.Client
+com.todoist.Todoist
+org.flameshot.Flameshot
+org.gimp.GIMP
+org.signal.Signal
+us.zoom.Zoom
+org.zotero.Zotero
+com.microsoft.Teams
+com.plexamp.Plexamp
+net.cozic.joplin_desktop
+com.bitwarden.desktop
+com.github.jeromerobert.pdfarranger
+com.nextcloud.desktopclient.nextcloud
+com.jgraph.drawio.desktop
+
+
+#org.gnome.Shotwell
+#org.gustavoperedo.FontDownloader
+#org.mozilla.Thunderbird
+#org.freedesktop.Platform.ffmpeg-full/x86_64/21.08
 #org.freedesktop.Platform.GStreamer.gstreamer-vaapi
-#org.freedesktop.Platform.VulkanLayer.OBSVkCapture
-#com.valvesoftware.Steam.Utility.gamescope
-#com.usebottles.bottles
-
-# Other goodies
+#io.github.celluloid_player.Celluloid
 #com.belmoussaoui.Obfuscate
 #com.getmailspring.Mailspring
 #com.slack.Slack
-#com.spotify.Client
-#com.todoist.Todoist
 #de.haeckerfelix.Fragments
 #org.audacityteam.Audacity
-#org.flameshot.Flameshot
-#org.gimp.GIMP
-#org.inkscape.Inkscape
-#org.kde.krita
-#org.signal.Signal
-#org.standardnotes.standardnotes
-#org.videolan.VLC
-#us.zoom.Zoom
+#org.gnome.Rhythmbox3
+
